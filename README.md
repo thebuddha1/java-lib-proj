@@ -7,10 +7,10 @@ Kis méretű, objektumorientált Java projekt, amely egy könyvtár állományá
 ## 📑 Tartalomjegyzék
 
 1. [Funkciók](#1-funkciók)
-2. [Felépítés](#3-felépítés)
-3. [Tervezési döntések](#4-tervezési-döntések)
-4. [Használt Java technológiák és nyelvi elemek](#5-használt-java-technológiák-és-nyelvi-elemek)
-5. [Demó futás](#6-demó-futás)
+2. [Felépítés](#2-felépítés)
+3. [Tervezési döntések](#3-tervezési-döntések)
+4. [Használt Java technológiák és nyelvi elemek](#4-használt-java-technológiák-és-nyelvi-elemek)
+5. [Demó futás](#5-demó-futás)
 
 ---
 
