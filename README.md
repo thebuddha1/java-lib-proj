@@ -144,8 +144,6 @@ classDiagram
 
 A projekt elindítása után 8 inputra adott konzolkimenete: 
 
-### 📋 TODO
-
 ```text
 --- 1. Stock (Natural order: by title) ---
 [DVD] D003   A dzsungel könyve                  (1967) available
